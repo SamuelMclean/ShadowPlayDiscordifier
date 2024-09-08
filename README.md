@@ -1,7 +1,8 @@
 # ShadowPlayDiscordifier
 
 A simple tool to compress ShadowPlay clips to under 10MB for sharing on Discord.
-Currently only guaranteed to work on 15 second clips.
+
+Currently only tested to work on 15 second clips.
 
 
 # Set up Instructions
