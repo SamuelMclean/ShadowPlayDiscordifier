@@ -7,7 +7,7 @@ Currently only guaranteed to work on 15 second clips.
 # Set up Instructions
  1. Download the latest release.
  2. Extract the downloaded `.zip` file the into the folder beside your main clip folder, and rename the clip folder to `Clips`
-    - **Note:** you should NOT place it inside `Clips` folder where all the folders with the names of the games are.
+    - **Note:** you should NOT place it inside the `Clips` folder where all the folders with the names of the games are.
 
 
 ## Build Instructions
