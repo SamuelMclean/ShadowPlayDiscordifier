@@ -11,4 +11,4 @@ A simple tool to compress ShadowPlay clips to under 10MB for sharing on Discord.
 ## Build Instructions
 1. Run `git clone https://github.com/SamuelMclean/ShadowPlayerDiscordifier`
 2. Run `build.bat`
-   - Simple :)
+   - The created `SPdiscordifiervx.x.x.zip` file can now be used to place the tool anywhere on any windows device.
