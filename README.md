@@ -1,12 +1,13 @@
 # ShadowPlayDiscordifier
 
 A simple tool to compress ShadowPlay clips to under 10MB for sharing on Discord.
+Currently only guaranteed to work on 15 second clips.
 
 
 # Set up Instructions
  1. Download the latest release.
- 2. Extract the downloaded `.zip` file the into the folder beside your main clip folder, and rename the clip folder to 'clips'
-    - **Note:** you should NOT place it inside 'clips' folder where all the folders with the names of the games are.
+ 2. Extract the downloaded `.zip` file the into the folder beside your main clip folder, and rename the clip folder to `Clips`
+    - **Note:** you should NOT place it inside `Clips` folder where all the folders with the names of the games are.
 
 
 ## Build Instructions
