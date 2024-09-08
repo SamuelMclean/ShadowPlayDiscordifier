@@ -2,13 +2,13 @@
 
 A simple tool to compress ShadowPlay clips to under 10MB for sharing on Discord.
 
+
+# Set up Instructions
+ - Extract 'Discordifier.zip' into the folder beside your main clip folder, and rename the clip folder to 'clips'
+ - Note you should NOT place it inside 'clips' folder where all the folders with the names of the games are.
+
+
 ## Build Instructions
 
 1. Run `build.bat`
-   - This will compile and set up the necessary files.
-
-2. Extract the contents of `build.zip` to the directory where your clips are saved
-   - Ensure you select the main folder, not the individual clip folders.
-     
-3. To execute the transcoding process, run `transcode.bat`
-   - This will compress the clips for non-nitro Discord users.
+   - Simple :)
