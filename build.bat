@@ -7,7 +7,7 @@ set OutputDir=ffmpeg
 set ZipFile=ffmpeg.zip
 set SourceDir=src
 set FFmpegFile=ffmpeg.exe
-set OutputZip=discordifier1.0.zip
+set OutputZip=SPdiscordifierv0.1.0.zip
 set FFmpegFolder=FFmpeg
 set TranscodeFile=transcode.bat
 
